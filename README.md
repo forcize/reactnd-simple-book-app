@@ -1,4 +1,4 @@
-# Udacity - Pedro Roman - MyReads Project
+# MyReads Project
 
 MyReads is a project sumission for the first project submission for the ReactJS Nanodegree program in Udacity. The idea is to create an application that allows you to categorize books into shelves such as *Currently Reading*, *Want to Read* and *Read*. Aditionally, the application should be able to GET/POST data from an external server. The application also have a search feature with limited terms look at the file *SEARCH_TERMS.md*, the result-set comes directly from the external server.
 
