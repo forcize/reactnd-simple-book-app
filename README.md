@@ -1,5 +1,6 @@
 # MyReads Project
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 MyReads is a project submission for the first project submission for the ReactJS Nanodegree program in Udacity. The idea is to create an application that allows you to categorize books into shelves such as *Currently Reading*, *Want to Read* and *Read*. Additionally, the application should be able to GET/POST data from an external server. The application also has a search feature with limited terms look at the file *SEARCH_TERMS.md*; the result-set comes directly from the external server.
 
 ## Quick Install
